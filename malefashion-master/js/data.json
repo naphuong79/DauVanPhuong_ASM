@@ -1,0 +1,12 @@
+{
+    "products": [
+        {"id":1,"name":"Ankle Boots","img":"product-1.jpg","price":43.25},
+        {"id":2,"name":"Piqué Biker Jacket","img":"product-2.jpg","price":67.15},
+        {"id":3,"name":"Ankle Boots","img":"product-3.jpg","price":60.9},
+        {"id":4,"name":"Lether Backpack","img":"product-4.jpg","price":49.6},
+        {"id":5,"name":"T-shirt Contrast Pocket","img":"product-5.jpg","price":96.8},
+        {"id":6,"name":"Basic Flowing Scarf","img":"product-6.jpg","price":47.15},
+        {"id":7,"name":"Multi-pocket Chest Bag","img":"product-7.jpg","price":72.5},
+        {"id":8,"name":"Piqué Biker Jacket","img":"product-8.jpg","price":88.9}
+    ]
+}
